@@ -1,6 +1,5 @@
 # Car Purchase Prediction Model
 
-## Overview
 This project implements a **Gradient Boosting Classifier** to predict car purchase likelihood using a Japanese dataset and applies the model to estimate potential customers in an Indian dataset. The Jupyter Notebook (`Car_Purchase_Prediction.ipynb`) includes data preprocessing, feature engineering, model training, evaluation, business insights, and a Tableau visualization plan.
 
 ## Dataset
@@ -17,15 +16,15 @@ pip install pandas sklearn seaborn matplotlib
 ## Usage
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/car-purchase-prediction.git
-   cd car-purchase-prediction
+   git clone https://github.com/itsbk13/Car_Purchase_Prediction.git
+   cd Car_Purchase_Prediction
    ```
 2. Run `Car_Purchase_Prediction.ipynb` in Jupyter to execute the full workflow.
 3. Use exported `japan_data.csv` and `india_data.csv` for Tableau visualizations.
 
 ## Project Structure
 ```
-car-purchase-prediction/
+Car_Purchase_Prediction/
 ├── JPN Data.xlsx - CN_Mobiles.csv    # Japanese dataset
 ├── IN_Data.xlsx - IN_Mobiles.csv     # Indian dataset
 ├── Car_Purchase_Prediction.ipynb     # Main notebook
@@ -39,7 +38,4 @@ car-purchase-prediction/
 - **Model**: Gradient Boosting Classifier (70.26% accuracy).
 - **Key Predictors**: Car age (>360 days) and income.
 - **Business Insight**: Target high-income individuals with older cars.
-- **Tableau Plan**: Visualize age, income, and purchase trends.
-
-## Author
-**Barath Kumar S J**
+- **Tableau**: Visualize age, income, and purchase trends.
