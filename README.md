@@ -39,3 +39,6 @@ Car_Purchase_Prediction/
 - **Key Predictors**: Car age (>360 days) and income.
 - **Business Insight**: Target high-income individuals with older cars.
 - **Tableau**: Visualize age, income, and purchase trends.
+
+## License
+This project is licensed under the MIT License.
