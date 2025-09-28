@@ -1,4 +1,4 @@
-# Car Purchase Prediction Model
+# Car Purchase Prediction Model🚘
 
 This project implements a **Gradient Boosting Classifier** to predict car purchase likelihood using a Japanese dataset and applies the model to estimate potential customers in an Indian dataset. The Jupyter Notebook (`Car_Purchase_Prediction.ipynb`) includes data preprocessing, feature engineering, model training, evaluation, business insights, and a Tableau visualization plan.
 
