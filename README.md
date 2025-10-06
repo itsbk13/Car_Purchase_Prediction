@@ -42,3 +42,4 @@ Car_Purchase_Prediction/
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
+Attribution: This project was built as a capstone during an internship program with [Internshala](trainings.internshala.com/data-science-beginner-course/).
