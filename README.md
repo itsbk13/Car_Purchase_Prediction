@@ -41,5 +41,5 @@ Car_Purchase_Prediction/
 - **Tableau**: Visualize age, income, and purchase trends.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
-Attribution: This project was built as a capstone during an internship program with [Internshala](trainings.internshala.com/data-science-beginner-course/).
+- This project is licensed under the [MIT License](LICENSE).
+- Attribution: This project was built as a capstone during an internship program with [Internshala](trainings.internshala.com/data-science-beginner-course/).
